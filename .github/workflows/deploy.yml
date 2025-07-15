@@ -39,7 +39,10 @@ jobs:
       - name: Copy quartz changes
         run: |
           mv content/.quartz/quartz.config.ts ./quartz.config.ts
+          cat ./quartz/styles/custom.scss
           cp -r content/.quartz/styles ./quartz/styles
+          echo "new changes"
+          cat ./quartz/styles/custom.scss
 
       - uses: actions/setup-node@v4
         with:
