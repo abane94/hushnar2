@@ -40,7 +40,7 @@ jobs:
         run: |
           mv content/.quartz/quartz.config.ts ./quartz.config.ts
           cat ./quartz/styles/custom.scss
-          cp -r content/.quartz/styles ./quartz/styles
+          cp -r content/.quartz/styles/* ./quartz/styles
           echo "new changes"
           cat ./quartz/styles/custom.scss
 
