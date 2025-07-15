@@ -16,7 +16,7 @@ concurrency:
 
 
 jobs:
-  build-repo-b:
+  build:
     runs-on: ubuntu-latest
 
     steps:
