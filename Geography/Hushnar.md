@@ -1,0 +1,1 @@
+Island in the [[Strange Sea]] north of the [[Mawing Straight]].  Hushnar falls in a region known as the Misty Vale.  

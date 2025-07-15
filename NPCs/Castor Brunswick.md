@@ -1,0 +1,1 @@
+Castor is a human that moved to [[Flatmire]] roughly 9 years ago. With little to his name when he moved to the island. Caster did not hesitate to become quite the entrepreneur. He soon acquired funds to build a tavern and has been running a successful business ever since.

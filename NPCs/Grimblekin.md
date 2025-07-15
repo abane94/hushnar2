@@ -1,0 +1,1 @@
+Grimblekin are a feline like race that roughly stand around 3 ft tall. They are known to be cunning and fierce. But normally quite secretive. Grimblekin have not been known to frequent lands outside the Misty Vale. 

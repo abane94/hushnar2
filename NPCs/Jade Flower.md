@@ -1,0 +1,1 @@
+Jade Flower is a grimblekin and is native to the Misty Vale. 

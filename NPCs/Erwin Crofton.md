@@ -1,0 +1,1 @@
+Erwin has been sailing since he was a some lad. Due to this he has an extensive knowledge of sailing vessels.  Rumor has it he would have never returned to shore if he hadn't met [[Ruby Hanzel]]. Erwin then traded one love for the other and now runs the Hillshire Pier. 

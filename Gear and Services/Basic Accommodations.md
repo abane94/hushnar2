@@ -1,0 +1,7 @@
+| SERVICE                      | COST                 | SUPPLY   | EFFECT                                                                                                                                           |
+| ---------------------------- | -------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Bath at an Inn               | 6 copper             | Common   | Heals a condition of your choice in one stretch. Only one bath perday has this effect.                                                           |
+| Bowl of Stew                 | 5 copper             | Common   | Covers the daily need of food.                                                                                                                   |
+| Lodging at Inn,Separate Room | 5 silver             | Common   | A shift rest can be had without a BUSHCRAFT roll.                                                                                                |
+| Meal at an Inn               | 3 silver             | Common   | Covers the daily need of food.                                                                                                                   |
+| Tankard of Mead              | 4 copper             | Common   | After drinking three tankards in a single shift, each additional tankardcauses a condition of your choice.                                       |

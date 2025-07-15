@@ -1,0 +1,1 @@
+Brian Ozbark is an old wiry elf with long white hair that has many twigs and other pieces of the forest woven into it. Often seen talking to trees and other plants Bran has become quite the oddity in Spring Lodge. Due to this connection with the forest he has also become quite an adapt healer and is willing to make potions for those who ask though he does charge coin for them.

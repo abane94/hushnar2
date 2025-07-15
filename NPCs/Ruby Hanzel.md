@@ -1,0 +1,1 @@
+Rudy set out with the goal to bring the newest fashion to the corners of the world. Settling in Hillshire she has achieved most of her goal. She spends her days crafting some of the finest or most particle outfits. She doesn't judge her cliental, she thinks everyone could use a little something extra.    

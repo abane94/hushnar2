@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "59c7d2ab43226499",
+    "type": "split",
+    "children": [
+      {
+        "id": "df7fc8cb5112f61b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2584bd0bd588daeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Hillshire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hillshire"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "765e37d30d36f53e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b815b2f2770c2b0b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "6241356cc38cbad2",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "c1f34a2e7258bb9c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "5c4d9e07be136307",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "be27410dfa03da16",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "356265b4a9c147ef",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Locations/Hillshire.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "f3133348bab7120c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Locations/Spring Lodge.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "6a3ff86903fa264b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Locations/Spring Lodge.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2584bd0bd588daeb",
+  "lastOpenFiles": [
+    "Geography/Maps/Hushnar.png",
+    "Locations/Hillshire.md",
+    "Gorge Primwell.md",
+    "Locations/Slagway.md",
+    "Locations/Flatmire.md",
+    "Castor Brunswick.md",
+    "Foster Jones.md",
+    "Basic services.md",
+    "Otto Ironcloud.md",
+    "Grimblekin.md",
+    "Jade Flower.md",
+    "Locations/Spring Lodge.md",
+    "Yestar Boulderbrow.md",
+    "Ozric Boulderbrow.md",
+    "Miners Guild.md",
+    "Thorin Brightbeard.md",
+    "Grethna Olinoak.md",
+    "Bran Ozbark.md",
+    "Wilburn Blackwood.md",
+    "Drant Hillsbottom.md",
+    "Silver Jacks.md",
+    "Willow Littlestone.md",
+    "Geography/Windfall River.md",
+    "Glint Braswick.md",
+    "Flint Braswick.md",
+    "Bran.md"
+  ]
+}

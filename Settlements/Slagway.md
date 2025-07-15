@@ -1,0 +1,18 @@
+![[slagway.png]]
+
+Slagway is little more than a mining camp in the foothills of the [[Star Metal Mountains]] northeast of [[Hillshire]]. The miners of Slagway use the [[Comet River]] to transport or down to Hillshire to sell at the markets. Dangers plague slag way from both above and below. The forest surrounding Slagway are full of beasts big and small trolls goblins and ogres are but a few of the ones to mention. The rumor has it that there are giants that roam the star metal mountains. From below the dangers are unknown. The blackness itself at times seems to have a mind of its own and it is not uncommon for a minor to disappear never be seen again. Miners brave this near inhabitable space to try attempt to find the riches such as iron, gold, and precious gems of a variety of kinds. Due to the abundance of riches that come from the mines near and around Slagway [[ Star Metal Dwarves]] are known to come out from their dwellings higher up on the mountains to trade.
+
+### Locations 
+
+#### Miner's Guild Hall
+- The guildhall is where most of the day-to-day tasks of the [[Miners Guild]]. It is where miners will drop off the ore they have collected for the day. It is also where they will receive their payment for their hauls. Anyone wishing to speak to your representative of the guild should go to the Guild Hall.
+- Much like Spring Lodge, Slagway does not have a formal guard. Volunteers from The Guild and travelers make up a small rag tag group of individuals that watch for danger.
+- Travelers can also buy [[Essential Goods]] from the Guild Hall with a markup of two silver. 
+#### Bunk Hall
+- The bunk house is a first come first serve establishment. With Guild members having priority. A the start of the night if there are any beds open then they are free to ever wishes to sleep there. Otherwise there are plenty of lean twos around Slagway someone can tuck under. It is not uncommon for groups of minors to spend several nights down in the mines as they collect their ore. This means that the number of beds available is always fluctuating. The cleanliness of the bunkhouse is lower than your average Inn due to the transient nature of its inhabitants. [[Grethna Olinoak]] , one of the elder Guild members, attempts to get the sheets cleaned at least once a week in the Comet River. Or at the very least she cleans any of the available sheets she can.
+#### Mess Hall 
+-  Much like the bunkhouse the mess hall is a first come first serve event. Meals are served at Sun up, midday, and sundown. So again the miners in the guild have priority. The meals are quite limited mostly containing foods like porridge, beans, potatoes, hardtack, and whatever game was hunted in the area recently. The cook [[Yestar Boulderbrow]] does his best with what he has. But normally the supplies are quite limited. The food is never really good but it is hardy. Food is scarce up in the Star Metal Mountains but the guild is willing to sell rations to those who need them.
+#### The Wandering Hammer - Smithy
+- The Wandering Hammer is a well-renowned blacksmith and is the lone gem of Slagway. The Wandering Hammer is run by [[Ozric Boulderbrow]] and his three apprentices. If it is made from metal it is so that it can be crafted at this forge.
+### People 
+The population of Slagway is roughly around 65. The majority of which are humans, dwarves, and gnomes. These are hard people that have lived a hard life. They are rough and lack most manners seen in a civilized settlement.

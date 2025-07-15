@@ -1,0 +1,1 @@
+Yestar Boulderbrow is a portly dwarf of a large belly and thick arms. Though he has no real culinary training, no one else seemed remotely as competent as he when they arrived in Slagway. For this reason he soon became the guild cook and spends his time brewing the next meal for the guild.

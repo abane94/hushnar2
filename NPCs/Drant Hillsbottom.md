@@ -1,0 +1,1 @@
+Grant Hillsbottom is a spry young dwarf that is ready to learn the art of blacksmithing. He has been an apprentice for about 2 to 3 years. Though it's taking him sometime to learn the trades his master thinks he will be a great Smith someday.

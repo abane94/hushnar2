@@ -1,0 +1,1 @@
+Willow little Stone is at aloof elf of middle to late age. She for all intensive purposes resembles a red squirrel in her mannerisms and her hair color. He likes to collect a lot of different things from the forest and she runs a market out of her store in [[Spring Lodge]]. 

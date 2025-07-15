@@ -1,0 +1,35 @@
+| ITEM                  | COST     | SUPPLY   | WEIGHT | EFFECT                                                                                                                                                                   |
+| --------------------- | -------- | -------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Abacus                | 2 gold   | Common   | 1      | Boon on INT rolls for solving mathematical problems.                                                                                                                     |
+| Chess Set             | 1 gold   | Common   | 1      | Opposed roll for INT determines who wins.                                                                                                                                |
+| Dice                  | 1 silver | Common   | —      | Chance determines who wins.                                                                                                                                              |
+| Magnifying Glass      | 30 gold  | Uncommon | 1      | Boon to SPOT HIDDEN rolls.                                                                                                                                               |
+| Marbles               | 1 gold   | Common   | 1      | Can be thrown at a humanoid enemy within 10 meters, as anaction. Next turn the enemy must make an EVADE roll (not anaction) in order to move.                            |
+| Perfume (10doses)     | 5 gold   | Common   | 1      | Boon on CHA-based skill rolls when the GM finds it reasonable.                                                                                                           |
+| Playing Cards         | 5 silver | Uncommon | —      | Opposed roll for BLUFFING determines who wins.                                                                                                                           |
+| Rope, Silk (10meters) | 10 gold  | Uncommon | —      | Boon on ACROBATICS rolls for climbing, but the rope must besecured to something.                                                                                         |
+| Spyglass              | 50 gold  | Rare     | 1      | Boon on BUSHCRAFT rolls for leading the way during journeys.                                                                                                             |
+| Tent, Large           | 4 gold   | Common   | 4      | Can accommodate up to six people. Grants a boon on BUSHCRAFT rolls for making camp. Only one person rolls, but otherscan help.                                           |
+| Whistle               | 5 silver | Common   | —      | Can be heard from up to 100 meters away.                                                                                                                                 |
+| Amulet                | 3 gold   | Uncommon | —      | Can be used as a focus for spells.                                                                                                                                       |
+| Brooch                | 5 gold   | Uncommon | —      | Can be used as a focus for spells.                                                                                                                                       |
+| Hourglass             | 25 gold  | Rare     | 1      | Can be used as a focus for spells.                                                                                                                                       |
+| Orbuculum             | 18 gold  | Uncommon | 1      | Can be used as a focus for spells.                                                                                                                                       |
+| Paper (sheet)         | 2 silver | Uncommon | —      | Can be used to write down spells.                                                                                                                                        |
+| Quill & Ink           | 10 gold  | Uncommon | 1      | Can be used to write down spells.                                                                                                                                        |
+| Lamp Oil              | 3 silver | Common   | 1      | Holds ten doses. Each dose keeps an oil lamp or lantern burningfor up to one shift of time.                                                                              |
+| Lantern               | 10 gold  | Common   | 1      | Illuminates a 10 meter radius. Burns for up to a shift of time, butroll D8 after each stretch of time. On 1 the lantern goes out andmust be refilled and relit (action). |
+| Oil Lamp              | 1 gold   | Common   | 1      | Illuminates a 10 meter radius. Burns for up to a shift of time, butroll D6 after each stretch of time. On 1 the lamp goes out and mustbe refilled and relit (action).    |
+| Bottle                | 1 gold   | Common   | 1      | Contains 1 unit of liquid.                                                                                                                                               |
+| Saddle                | 10 gold  | Common   | 1      | Required to avoid a bane when fighting from horseback.                                                                                                                   |
+| Drum                  | 4 gold   | Common   | 1      | Increases the range of the Musician ability to 20 meters.                                                                                                                |
+| Flute                 | 2 gold   | Common   | 1      | Reduces the WP cost of the Musician ability to 2.                                                                                                                        |
+| Horn                  | 6 gold   | Common   | 1      | Increases the range of the Musician ability to 100 meters.                                                                                                               |
+| Lyre                  | 20 gold  | Uncommon | 1      | Reduces the WP cost of the Musician ability to 1.                                                                                                                        |
+
+
+| GARMENT       | COST     | SUPPLY   | EFFECT                                                    |
+| ------------- | -------- | -------- | --------------------------------------------------------- |
+| Boots         | 2 gold   | Uncommon | Protects against some journey mishaps (page 102).         |
+| Cloak         | 8 silver | Uncommon | Protects against some journey mishaps (page 102).         |
+| Fine Garments | 10 gold  | Uncommon | Boon on CHA-based skills when the GM finds it reasonable. |

@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "07886c1db81d6454",
+    "type": "split",
+    "children": [
+      {
+        "id": "746618d5165a57d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0148eb9e86ead53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Hillshire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hillshire"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6fada6e31a16f88",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6222fa905fc39a38",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "98fe284b5bfc1c8b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "50938ea4032cfec9",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "bceb2472ba425fac",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "06d14d7c191ac52f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8ef90816ff7a5b93",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Locations/Slagway.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "197ce587652a9d89",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "de61daa4cea91da5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d0148eb9e86ead53",
+  "lastOpenFiles": [
+    "Locations/Flatmire.md",
+    "Locations/Hillshire.md",
+    "Locations/Slagway.md",
+    "Locations/Spring Lodge.md",
+    "World Lore.md",
+    "Geography/Comet River.md",
+    "Organizations/Star Metal Dwarves.md",
+    "Geography/Star Metal Mountains.md",
+    "Maps/Hushnar.png",
+    "Geography/Shire Bay.md",
+    "Geography/Crying Nettle Forest.md",
+    "Geography/Wind Fall River.md",
+    "Geography",
+    "Maps/spring_lodge.png",
+    "Locations/Spring Lodge",
+    "Maps/hill_shire.png",
+    "Beast",
+    "Organizations",
+    "NPCs",
+    "Locations",
+    "Maps",
+    "Maps/flatmire.png",
+    "Maps/slagway.png"
+  ]
+}
